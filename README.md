@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**michellecorreaa/michellecorreaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Who I am?
 
-Here are some ideas to get you started:
+ * 👩‍💻 Data Analyst 🥰
+ * 🔬 Researcher
+ * 👩‍🎓 Materials Engineer - MACKENZIE
+ * 🎓Master in Materials Engineering - MACKENZIE
+ * 📊MBA in Data Science & Analytics - USP
+ 
+## Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 SQL
+* 📈 Power BI
+* 🐍 Python
+* 📉 R
+
+## Find me 💁‍♀️
+
+[Linkedin]( https://www.linkedin.com/in/michellecorrêa/)
+
