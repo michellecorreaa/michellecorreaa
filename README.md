@@ -11,7 +11,8 @@
 ## Skills 💻
 
 * 💻 SQL
-* 📈 Power BI
+* 📈 Excel
+* 📊 Power BI
 * 🐍 Python
 * 📉 R
 
